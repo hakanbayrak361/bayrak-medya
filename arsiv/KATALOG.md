@@ -42,3 +42,11 @@ Bayrak Arşiv klasöründen seçilip küçültülmüş (en uzun kenar 1600px) fo
 | grup_21.jpg | yatay | Kâbe önünde grup, gece (2026-11-25 kullanıldı) |
 
 Bilgisayardaki arşivde ayrıca var (henüz buraya alınmadı): Ofis/ 17 HEIC fotoğraf, Videolar/ 37 video. Rehberler/, Mekke-Medine/, İZİNLİ-YOLCULAR/ klasörleri boş.
+
+## Rehberler / kampanya afişleri
+| dosya | içerik |
+|---|---|
+| rehber_afis_hoca.jpg | 14-28 Aralık 2026 14 günlük servisli umre afişi, Mehmet Yıldırım Hoca rehberliğinde, hoca tel 0532 697 15 43 (2026-11-22 Reels olarak kullanıldı) |
+| rehber_afis.jpg | Aynı afişin hocasız sürümü (2026-11-29 kullanıldı) |
+
+Tur sayfası: https://bayrakturizm.com.tr/turlar/servisli-umre (14-28 Aralık 2026, THY, Mekke Arak Ajyad Hotel, Medine Merkeziye, 4/3/2 kişilik 1.400/1.450/1.500 $, ön kayıt ücretsiz)
