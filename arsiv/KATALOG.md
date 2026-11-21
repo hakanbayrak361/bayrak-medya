@@ -50,3 +50,17 @@ Bilgisayardaki arşivde ayrıca var (henüz buraya alınmadı): Ofis/ 17 HEIC fo
 | rehber_afis.jpg | Aynı afişin hocasız sürümü (2026-11-29 kullanıldı) |
 
 Tur sayfası: https://bayrakturizm.com.tr/turlar/servisli-umre (14-28 Aralık 2026, THY, Mekke Arak Ajyad Hotel, Medine Merkeziye, 4/3/2 kişilik 1.400/1.450/1.500 $, ön kayıt ücretsiz)
+
+## video/ (15 sn, 1080x1920 dikey, orijinal sesli Reels klipleri; geçmiş gruplardan, tarih belirtilmemiş: "gruplarımızdan" diye sun, "şu an" deme)
+| dosya | içerik |
+|---|---|
+| kabe_tavaf.mp4 | Gece Kâbe'de ihramlı grup tavafta, Kâbe kadrajda (en güçlü klip) |
+| harem_ihram_yuruyus.mp4 | Mescid-i Haram'da ihramlı yolcular yürüyor, gece |
+| mescit_ici_dua.mp4 | İhramlı erkek yolcular mescitte oturmuş dua ediyor |
+| medine_aksam.mp4 | Medine'de akşam, kadın yolcular Mescid-i Nebevi civarında yürüyor |
+| uhud_pankart.mp4 | Uhud'da BAYRAK pankartıyla geniş grup (yatay kaynak, bulanık kenarlı) |
+| otobus_hoca_anlatim.mp4 | Otobüste ihramlı hoca mikrofonla anlatım/telbiye yapıyor (ses önemli) |
+| otobus_rehber_anlatim.mp4 | Otobüste rehber mikrofonla kameraya konuşuyor, arkada yolcular (ses önemli) |
+| otobus_hareket.mp4 | Otobüs önünde yolcular, yola çıkış |
+
+Bilgisayardaki arşivde kalan: Ofis/ 17 HEIC fotoğraf (dönüştürülemedi, JPG gerekiyor), Videolar/ altında kullanılmamış diğer ham videolar.
