@@ -63,4 +63,26 @@ Tur sayfası: https://bayrakturizm.com.tr/turlar/servisli-umre (14-28 Aralık 20
 | otobus_rehber_anlatim.mp4 | Otobüste rehber mikrofonla kameraya konuşuyor, arkada yolcular (ses önemli) |
 | otobus_hareket.mp4 | Otobüs önünde yolcular, yola çıkış |
 
-Bilgisayardaki arşivde kalan: Ofis/ 17 HEIC fotoğraf (dönüştürülemedi, JPG gerekiyor), Videolar/ altında kullanılmamış diğer ham videolar.
+Bilgisayardaki arşivde kalan: Videolar/ altında kullanılmamış diğer ham videolar.
+
+
+## ofis/ (İzmit merkez ofis, Kavala İş Hanı No:37, Şahabettin Bilgisu Cd.; Kasım 2026 kullanıcı JPG'ye çevirdi)
+| dosya | yön | içerik |
+|---|---|---|
+| img_7488.jpg | yatay | İzmit ofis binası, cadde görünümü, uzak çekim |
+| img_7489.jpg | yatay | Bina cephesi, BAYRAK Hac-Umre tabelası görünüyor |
+| img_7490.jpg | dikey | Bina girişi, BAYRAK TURİZM ve büyük BAYRAK Hac-Umre tabelası yakın (en iyi cephe karesi) |
+| img_7491.jpg | dikey | Cephe, HAC-UMRE dikey tabela ve BAYRAK tabelası, cadde ile |
+| img_7492.jpg | dikey | Cephe, umre turları afişli tabela |
+| img_7493.jpg | dikey | Kavala İşhanı No:37 kat listesi, Kat 1 BAYRAK Turizm |
+| img_7494.jpg | dikey | Kat listesi yakın, BAYRAK tabelası |
+| img_7495.jpg | dikey | Kavala İş Hanı No:37 kat listesi, duvarda |
+| img_7496.jpg | dikey | Ofis koridoru, Mescid-i Nebevi ve Kâbe ışıklı panosu, ofis kapısı |
+| img_7497.jpg | dikey | Koridor, Kâbe ışıklı panosu ve BAYRAK logosu, ofis kapısı (güçlü kare) |
+| img_7498.jpg | yatay | Koridor yatay, ışıklı Kâbe/Medine panosu |
+| img_7499.jpg | yatay | Koridor yatay, ışıklı pano, kapı |
+| img_7500.jpg | dikey | Kapı yanındaki Bayrak Kılavuz Turizm plaketi |
+| img_7501.jpg | yatay | Ofis girişi, BAYRAK Hac-Umre tabelası ve plaket |
+| img_7502.jpg | yatay | Resepsiyon, duvarda büyük BAYRAK Turizm Seyahat Acentası Hac-Umre logosu (en iyi iç mekân karesi) |
+| img_7503.jpg | yatay | Yönetici odası, masa, Mekke haritası, belgeler duvarda |
+| img_7504.jpg | yatay | Çalışma odası, masa, koltuk, Mekke haritası |
